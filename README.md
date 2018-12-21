@@ -2,7 +2,8 @@
 playground of zos
 
 1. set "NODE_NV=test"
-2. run "truffle test"
+2. launch ganache in terminal
+3. run "truffle test"
 
 ```
 $ truffle test
